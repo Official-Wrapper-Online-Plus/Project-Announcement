@@ -2,7 +2,7 @@
 
 Wrapper Online+ is in development stage, you can still view the [asset server](https://zyrusplaysanimations.github.io/Wrapper-Online-Plus-Assets-Beta/)
 
-## When is it commung out?
+## When is it comming out?
 
 The release date is unknown because it is in development.
 
