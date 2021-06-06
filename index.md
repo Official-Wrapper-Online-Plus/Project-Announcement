@@ -1,37 +1,23 @@
 ## Welcome to Wrapper Online+
 
-You can use the [editor on GitHub](https://github.com/ZyrusplaysAnimations/Wrapper-Online_Plus-Announcement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wrapper Online+ is in development stage, you can still view the [asset server](https://zyrusplaysanimations.github.io/Wrapper-Online-Plus-Assets-Beta/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## When is it commung out?
 
-### Markdown
+The release date is unknown because it is in development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Need Help?
 
-```markdown
-Syntax highlighted code block
+Join this [server]() for help or updates.
 
-# Header 1
-## Header 2
-### Header 3
+## Downloads
 
-- Bulleted
-- List
+This project is still on development so there is no downloads.
 
-1. Numbered
-2. List
+## Where is the repository of Wrapper Online+?
+Wrapper Online+ is in private github repostory.
 
-**Bold** and _Italic_ and `Code` text
+## Will Wrapper Online+ have the html lvm?
+Yes, Wrapper Online+ have that to avoid lags while editing a video (Not available in offline version and localhost version)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZyrusplaysAnimations/Wrapper-Online_Plus-Announcement/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
