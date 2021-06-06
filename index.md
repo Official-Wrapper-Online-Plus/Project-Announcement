@@ -17,7 +17,7 @@ This project is still on development so there is no downloads.
 ## Where is the repository of Wrapper Online+?
 Wrapper Online+ is in private github repostory.
 
-## Will Wrapper Online+ have the html lvm?
-Yes, Wrapper Online+ have that to avoid lags while editing a video (Not available in offline version and localhost version)
+## Will Wrapper Online+ going to add html5 version of lvm?
+Yes, we will add that feature so the lvm won't lag. (Not available in offline version and localhost version)
 
 
